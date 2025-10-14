@@ -85,17 +85,6 @@ I turned an old laptop into a NAS and 3D-printed its custom case
 
 ---
 
-### 🧊 3D Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Robert0811/github-profile-3d-contrib/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-</p>
-## ✍️ Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Robert0811&label=Profile%20Views&color=0&icon=1&pretty=true" />
 </p>
