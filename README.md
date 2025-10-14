@@ -84,11 +84,4 @@ I turned an old laptop into a NAS and 3D-printed its custom case
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Robert0811&label=Profile%20Views&color=0&icon=1&pretty=true" />
-</p>
-
----
-
 <!-- Designed and refined by Trifan Robert -->
