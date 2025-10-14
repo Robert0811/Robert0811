@@ -40,8 +40,35 @@ I turned an old laptop into a NAS and 3D-printed its custom case
 ---
 
 ## 💻 Tech Stack
+
+### 🖥️ Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,python,js,react,nextjs,nodejs,express,html,css,mongodb,mysql,tensorflow,pytorch,raspberrypi,arduino,docker,linux,git,figma,ps,ai,firebase,cloudflare,homeassistant&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,swift&theme=dark" />
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,mysql,firebase&theme=dark" />
+</p>
+
+### 🧠 AI / Machine Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,pandas&theme=dark" />
+</p>
+
+### 🛠️ DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,cloudflare,github,nginx,homeassistant&theme=dark" />
+</p>
+
+### 🎨 Design & UI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,pr,ae,canva&theme=dark" />
+</p>
+
+### ⚡ Hardware & IoT
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark" />
 </p>
 
 ---
@@ -58,16 +85,13 @@ I turned an old laptop into a NAS and 3D-printed its custom case
 
 ---
 
+### 🧊 3D Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Robert0811/github-profile-3d-contrib/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</p>
 ## ✍️ Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Robert0811/Robert0811/output/snake.svg" alt="snake animation"/>
 </p>
 
 ---
