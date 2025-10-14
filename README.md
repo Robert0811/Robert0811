@@ -18,7 +18,7 @@
 
 <!-- Animated gradient banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Robert0811/Robert0811/main/assets/gradient-banner.svg" width="100%" alt="animated gradient"/>
+  <img src="https://raw.githubusercontent.com/Robert0811/main/assets/gradient-banner.svg?sanitize=true" width="100%" alt="animated gradient"/>
 </p>
 
 ---
