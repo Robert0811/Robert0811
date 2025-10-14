@@ -1,88 +1,81 @@
-<!-- Header -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#ff8c00;">Trifan Robert</span></h1>
+<h1 align="center">👋 Hey there, I'm Trifan Robert</h1>
 <h3 align="center">🚀 Full-Stack Developer | iOS & Machine Learning Enthusiast</h3>
 
+---
+
+## 💫 About Me
+🔨 **Currently working on:**  
+FoodieMate — iOS app for calorie tracking, meal planning & iCloud sync  
+
+🤝 **Looking to collaborate on:**  
+Open-source SwiftUI, ML, or IoT projects  
+
+🆘 **Looking for help with:**  
+Advanced ML deployment workflows & CloudKit integration  
+
+🌱 **Currently learning:**  
+SwiftUI · CloudKit · TensorFlow · Next.js · Node.js · full-stack architectures  
+
+💬 **Ask me about:**  
+iOS development · Python automation · Raspberry Pi · smart home projects  
+
+⚡ **Fun fact:**  
+I turned an old laptop into a NAS and 3D-printed its custom case  
+
+---
+
+## 🌐 Connect with Me
 <p align="center">
-  <a href="https://github.com/Robert0811">
-    <img src="https://komarev.com/ghpvc/?username=Robert0811&label=Profile%20Views&color=ff8c00&style=flat" alt="profile views"/>
+  <a href="https://linkedin.com/in/robert-trifan-625271a9" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Robert0811?tab=followers">
-    <img src="https://img.shields.io/github/followers/Robert0811?label=Followers&style=social" alt="followers"/>
+  <a href="mailto:trifanrobert55@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/trifanrobert55" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
-<!-- Typing tagline -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+iOS+%26+Machine+Learning;SwiftUI+%7C+CloudKit+%7C+TensorFlow;Building+useful+apps+and+smart+devices+🔧" />
-</p>
+---
 
-<!-- Animated gradient banner -->
+## 💻 Tech Stack
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Robert0811/main/assets/gradient-banner.svg?sanitize=true" width="100%" alt="animated gradient"/>
+  <img src="https://skillicons.dev/icons?i=swift,python,js,react,nextjs,nodejs,express,html,css,mongodb,mysql,tensorflow,pytorch,raspberrypi,arduino,docker,linux,git,figma,ps,ai,firebase,cloudflare,homeassistant&perline=10" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 Working on: **[FoodieMate](https://github.com/Robert0811/FoodieMate)** — iOS app for calorie tracking & meal planning  
-- 🌱 Currently learning: **SwiftUI · CloudKit · TensorFlow · Next.js · Node.js · MongoDB**  
-- 🤝 Looking to collaborate on: **Open-source SwiftUI, ML, or IoT projects**  
-- 🧠 Interests: **CloudKit data syncing & ML model deployment**  
-- 💬 Ask me about: **iOS development · Python automation · Raspberry Pi · ML pipelines**  
-- 📫 Reach me at: **trifanrobert55@yahoo.com**  
-- 🔗 LinkedIn: **[linkedin.com/in/robert-trifan-625271a9](https://www.linkedin.com/in/robert-trifan-625271a9/)**  
-- ⚡ Fun fact: *I turned an old laptop into a NAS and 3D-printed a custom case.*
-
----
-
-### 🌐 Connect With Me
+## 📊 GitHub Stats
 <p align="center">
-  <a href="https://www.linkedin.com/in/robert-trifan-625271a9/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://facebook.com/trifan.robert" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="40" /></a>
-  <a href="https://instagram.com/trifanrobert55" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-  <a href="https://github.com/Robert0811" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Robert0811&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true" height="160" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Robert0811&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
----
-
-### 🧠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,python,js,react,nextjs,nodejs,express,mongodb,mysql,redis,tensorflow,pytorch,opencv,raspberrypi,arduino,docker,nginx,linux,git,figma,ps,ai,firebase&perline=11" />
-</p>
-
----
-
-### 📊 Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Robert0811&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Robert0811&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robert0811&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
 
-### 🏆 Achievements
+## ✍️ Dev Quote
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Robert0811&theme=tokyonight&margin-w=8&no-frame=true&row=1" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote"/>
 </p>
 
 ---
 
-### 🚀 Projects Highlight
-- **[FoodieMate](https://github.com/Robert0811/FoodieMate)** — SwiftUI & CloudKit iOS app  
-- **NAS Custom Build** — 3D-printed enclosure + laptop board conversion  
-- **EliteShine** — Cleaning management app prototype (in progress)  
-- **Tennis ML Platform** — XGBoost/LightGBM prediction engine
-
----
-
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Robert0811/Robert0811/output/snake.svg" alt="snake animation"/>
 </p>
 
 ---
 
-<p align="center"><b>✨ Thanks for visiting my profile! ✨</b></p>
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Robert0811&label=Profile%20Views&color=0&icon=1&pretty=true" />
+</p>
+
+---
+
+<!-- Designed and refined by Trifan Robert -->
