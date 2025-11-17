@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Trifan Robert</h1>
-<h3 align="center">🚀 Full-Stack Developer | iOS & Machine Learning Enthusiast</h3>
+<h3 align="center">🚀 Full-Stack Developer | iOS & Machine Learning </h3>
 
 ---
 
